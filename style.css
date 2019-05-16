@@ -46,6 +46,11 @@ body{
     color: gold;
     font-size: 2em;
 }
+#LabHead{
+    text-align: center;
+    color: gold;
+    font-size: 2em;
+}
 .About h2{
     color: gold;
     font-size: 2em;
@@ -54,6 +59,9 @@ body{
     list-style-type: none;
 }
 #Deliverables{
+    list-style-type: none;
+}
+#Lab-Projects{
     list-style-type: none;
 }
 #Home{
